@@ -582,5 +582,6 @@ end main
 <img src="./imgs/atm.png">
 
 ## 3.2. Find Prime Factor of a number
+<a href="https://www.calculatorsoup.com/calculators/math/prime-factors.php">Prime Factor Calculator</a> <<<=== CLICK THIS LINK FOR COMPUTE TEST CASES ONLINE
 <img src="./imgs/prime0.png">
 <img src="./imgs/prime1.png">
